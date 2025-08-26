@@ -1,4 +1,9 @@
-## Hi there 👋
+# Halo Semua 👋
+## Perkenalkan nama saya **Dicky Firmansyah**.<br>
+
+Saya adalah mahasiswa Universitas Amikom Yogyakarta dengan Program Studi Sistem Informasi. Saat ini saya sedang fokus mengembangkan keterampilan saya di bidang pemrograman web dan mobile. Saya telah mengembangkan beberapa proyek seperti Desain Kursus Berbasis Seluler (Kursus Desain IC) dan Sistem Manajemen Tiket Acara Berbasis Situs Web (GetTix).
+
+Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dickyfirmansyah33/).
 
 <!--
 **dickybungg-debug/dickybungg-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
